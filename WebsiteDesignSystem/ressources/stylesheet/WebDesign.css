@@ -1,0 +1,53 @@
+nav{
+  background-color: lightgray;
+  padding: 5px;
+}
+
+.section {
+  border: black solid 1px;
+  margin: 10px auto;
+  padding: 10px;
+}
+
+.color-panel{
+  display: inline-block;
+  width: 32%;
+  margin: 10px auto;
+  text-align: center;
+}
+
+/*Colors background*/
+.color-one {
+  background-color: #2d5dcc;
+}
+.color-two {
+  background-color: #d957d9;
+}
+.color-three {
+  background-color: #4fe0b0;
+}
+.color-four {
+  background-color: #efd9ca;
+}
+
+/*Fonts Section*/
+.fonts {
+  display: inline-block;
+  border: 1px solid black;
+  width: 32%;
+  margin: 10px auto;
+  padding: 10px;
+  font-size: 20px;
+}
+
+.font-name {
+  text-decoration: underline;
+}
+
+.Bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
